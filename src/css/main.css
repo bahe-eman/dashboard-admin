@@ -1111,6 +1111,11 @@ h1,
   border-color: rgb(209 213 219 / var(--tw-border-opacity));
 }
 
+.border-red-800{
+  --tw-border-opacity: 1;
+  border-color: rgb(153 27 27 / var(--tw-border-opacity));
+}
+
 .border-secondary-blue{
   --tw-border-opacity: 1;
   border-color: rgb(120 174 216 / var(--tw-border-opacity));
@@ -1169,6 +1174,11 @@ h1,
   background-color: rgb(249 250 251 / var(--tw-bg-opacity));
 }
 
+.bg-green-300{
+  --tw-bg-opacity: 1;
+  background-color: rgb(134 239 172 / var(--tw-bg-opacity));
+}
+
 .bg-green-400{
   --tw-bg-opacity: 1;
   background-color: rgb(74 222 128 / var(--tw-bg-opacity));
@@ -1201,6 +1211,11 @@ h1,
 .bg-white{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-yellow-300{
+  --tw-bg-opacity: 1;
+  background-color: rgb(253 224 71 / var(--tw-bg-opacity));
 }
 
 .bg-yellow-400{
@@ -1610,11 +1625,6 @@ h1,
 .hover\:bg-hover-yellow:hover{
   --tw-bg-opacity: 1;
   background-color: rgb(202 138 4 / var(--tw-bg-opacity));
-}
-
-.hover\:bg-primary-blue:hover{
-  --tw-bg-opacity: 1;
-  background-color: rgb(37 43 59 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-yellow-700:hover{
